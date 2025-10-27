@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Performance Dashboard
 
-![Dashboard Preview](./ecommerce_dashboard_preview)  
+![Dashboard Preview](./ecommerce_dashboard_preview.PNG)  
 *Interactive Power BI dashboard analyzing sales, customers, and operations.*
 
 ---
@@ -45,6 +45,7 @@ This dashboard explores **customer behavior, product performance, and operationa
 - [LinkedIn](https://www.linkedin.com/in/bryan-kim-bauyon/)  
 - [GitHub](https://github.com/BryanBauyon)  
 - [DataCamp Portfolio](https://www.datacamp.com/portfolio/bkmbauyon)
+
 
 
 
