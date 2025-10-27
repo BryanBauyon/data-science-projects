@@ -1,6 +1,6 @@
 # 🏠 Real Estate Market Analysis Dashboard
 
-![Dashboard Preview](./real_estate_dashboard_preview.png)  
+![Dashboard Preview](./real_estate_dashboard_preview.PNG)  
 *Interactive Power BI dashboard analyzing property trends and affordability.*
 
 ---
@@ -45,4 +45,5 @@ Analyzes **HDB resale transactions (2012–2023)** to uncover **pricing trends, 
 - [LinkedIn](https://www.linkedin.com/in/bryan-kim-bauyon/)  
 - [GitHub](https://github.com/BryanBauyon)  
 - [DataCamp Portfolio](https://www.datacamp.com/portfolio/bkmbauyon)
+
 
