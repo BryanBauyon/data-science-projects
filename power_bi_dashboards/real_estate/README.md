@@ -30,6 +30,17 @@ Analyzes **HDB resale transactions (2012–2023)** to uncover **pricing trends, 
 
 ---
 
+## 🧩 Dashboard Pages
+| Page | Focus Area |
+|------|-------------|
+| 1️⃣ | Market Overview |
+| 2️⃣ | Market Trends & Comparisons |
+| 3️⃣ | Geographic Insights |
+| 4️⃣ | Benchmarking & Comparables |
+
+
+---
+
 ## 📦 Dataset
 - **Filename:** `hdb_resale_flats.csv`  
 - **Location:** Same folder as this dashboard  
@@ -45,5 +56,6 @@ Analyzes **HDB resale transactions (2012–2023)** to uncover **pricing trends, 
 - [LinkedIn](https://www.linkedin.com/in/bryan-kim-bauyon/)  
 - [GitHub](https://github.com/BryanBauyon)  
 - [DataCamp Portfolio](https://www.datacamp.com/portfolio/bkmbauyon)
+
 
 
