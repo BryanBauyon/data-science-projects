@@ -1,7 +1,7 @@
 # 💤 DataCamp Project – *Sleep Data Analysis: Exploring Occupational and Health Factors Affecting Sleep*
 
 ## 🔗 Public Notebook  
-[Open on DataCamp →](https://www.datacamp.com/datalab/w/abda49c7-609d-45ab-9843-8344cb7ff806/edit)
+[Project: Getting a Good Night's Sleep](https://www.datacamp.com/datalab/w/abda49c7-609d-45ab-9843-8344cb7ff806/edit)
 
 ---
 
@@ -116,3 +116,4 @@ By focusing on occupations, BMI, and sleep disorders, the analysis reveals that:
 - **Overweight and Obese** individuals are **10× more likely** to experience Insomnia than those with normal BMI.  
 
 Even without graphs, the notebook clearly shows how **data preparation and logical reasoning** can produce meaningful health insights.
+
