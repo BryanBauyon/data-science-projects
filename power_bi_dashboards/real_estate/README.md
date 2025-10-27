@@ -7,7 +7,7 @@
 
 **Files:**
 - `real_estate_dashboard.pbix` — Interactive Power BI dashboard  
-- `real_estate_presentation.pptx` — Presentation deck summarizing findings  
+- `real_estate_presentation.pdf` — Presentation deck summarizing findings  
 
 ## 📘 Overview
 Analyzes **HDB resale transactions (2012–2023)** to uncover **pricing trends, affordability patterns, and benchmark insights** within Singapore’s housing market.
@@ -45,4 +45,5 @@ Analyzes **HDB resale transactions (2012–2023)** to uncover **pricing trends, 
 - [LinkedIn](https://www.linkedin.com/in/bryan-kim-bauyon/)  
 - [GitHub](https://github.com/BryanBauyon)  
 - [DataCamp Portfolio](https://www.datacamp.com/portfolio/bkmbauyon)
+
 
