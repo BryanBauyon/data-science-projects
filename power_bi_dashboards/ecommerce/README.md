@@ -7,7 +7,7 @@
 
 **Files:**
 - `ecommerce_dashboard.pbix` — Interactive Power BI dashboard  
-- `ecommerce_presentation.pptx` — Presentation deck summarizing insights  
+- `ecommerce_presentation.pdf` — Presentation deck summarizing insights  
 
 ## 📘 Overview
 This dashboard explores **customer behavior, product performance, and operational efficiency** in an e-commerce business environment.
@@ -45,6 +45,7 @@ This dashboard explores **customer behavior, product performance, and operationa
 - [LinkedIn](https://www.linkedin.com/in/bryan-kim-bauyon/)  
 - [GitHub](https://github.com/BryanBauyon)  
 - [DataCamp Portfolio](https://www.datacamp.com/portfolio/bkmbauyon)
+
 
 
 
